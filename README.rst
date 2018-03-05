@@ -6,9 +6,9 @@
     :target: https://travis-ci.org/inveniosoftware/flask-appfactory
 .. image:: https://coveralls.io/repos/inveniosoftware/flask-appfactory/badge.svg?branch=master
     :target: https://coveralls.io/r/inveniosoftware/flask-appfactory
-.. image:: https://pypip.in/v/flask-appfactory/badge.svg
+.. image:: https://img.shields.io/pypi/v/flask-appfactory.svg
    :target: https://crate.io/packages/flask-appfactory/
-.. image:: https://pypip.in/d/flask-appfactory/badge.svg
+.. image:: https://img.shields.io/pypi/dm/flask-appfactory.svg
    :target: https://crate.io/packages/flask-appfactory/
 
 Flask-AppFactory is an dynamic application loader.
